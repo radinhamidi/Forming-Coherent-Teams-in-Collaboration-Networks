@@ -56,3 +56,6 @@ Also, two qualitative metrics scores that reported in the paper also will be gen
 The Help-Hurt diagrams are generated using by **"HelpHurt.py"** file in eval directory. After running the file, a csv file will be available in [eval_results](output/eval_results) folder under [output](output) directoy. You can then use the results in csv file to plot the diagrams as shown below:
 
 <p align="center"><img src="figures/hh.png" height="350px"></p>
+
+## Contributing
+This paper is accepted to EDBT2022 conference.
